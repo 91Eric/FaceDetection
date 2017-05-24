@@ -1,0 +1,3 @@
+PROJECT(face)
+ADD_SUBDIRECTORY(src bin)
+
